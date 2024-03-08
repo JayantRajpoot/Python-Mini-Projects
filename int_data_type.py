@@ -1,0 +1,5 @@
+#Write a program that adds the digits in a 2 digit number. e.g. if the input was 35, then the output should be 3 + 5 = 8first_no = int(two_digit_number[0])
+two_digit_number = input()
+first_no = int(two_digit_number[0])
+sec_no = int(two_digit_number[1])
+print(first_no + sec_no)
