@@ -49,6 +49,11 @@ if (pcdraw == 3):
 
 if (ans == pcdraw):
     print("It's Draw Start again")
-if (ans < pcdraw or ):
-    
-    
+if (ans ==1 and pcdraw== 2):
+    print("PC win")
+if (ans == 1 and pcdraw==3):
+    print("You win")
+if (ans ==2 and pcdraw == 1):
+    print("You win")
+if (ans ==2 and pcdraw == 3):
+    print("Pc win")
