@@ -57,3 +57,5 @@ if (ans ==2 and pcdraw == 1):
     print("You win")
 if (ans ==2 and pcdraw == 3):
     print("Pc win")
+else:
+    print("Wrong input, Try again")
